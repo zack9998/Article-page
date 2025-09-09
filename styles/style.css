@@ -17,6 +17,7 @@ body {
   background-color: white;
   border-radius: 10px;
   max-width: 840px;
+  margin:0 auto;
 }
 @media (max-width: 768px) {
   .preview {
